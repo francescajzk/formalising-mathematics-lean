@@ -23,7 +23,7 @@ The development includes:
   zero nim-sum
 - proof of Bouton's theorem: `LosingPos p ↔ NimSum p = 0`
 
-**File:** `FormalisingMathematics/Nim.lean`
+**File:** `Projects/nim.lean`
 
 ---
 
@@ -37,7 +37,7 @@ proves the supporting results required for the argument.
 
 It concludes by deriving Bolzano's theorem as a corollary.
 
-**File:** `FormalisingMathematics/IntermediateValueTheorem.lean`
+**File:** `Projects/intermediate_value_theorem.lean`
 
 ---
 
@@ -50,4 +50,4 @@ The project defines modular congruence and the greatest common divisor,
 develops the required coprimality results, and applies Euclid's lemma to
 prove the cancellation result.
 
-**File:** `FormalisingMathematics/ModularCancellation.lean`
+**File:** `Projects/modular_cancellation.lean`
